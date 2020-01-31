@@ -1,4 +1,6 @@
 1. WHAT ARE YOUR MOTIVATIONS TOWARDS BIOINFORMATICS?
+   The programming languages, softwares(basic & advanced) are used as a alternative method to conclude the results obtained from the 
+   wet lab exp.
 
 
 
@@ -10,3 +12,5 @@
 
 
 2. WHAT DO YOU EXPECT TO GAIN FROM THIS ASSOCIATION?
+   With the help of these Bioinformatics tools, it can be applied to the research studies for identifying the structure and 
+   sequence of genes. In future workshops, conferences can be conducted to teach others about these bioinformatics tools & softwares.
